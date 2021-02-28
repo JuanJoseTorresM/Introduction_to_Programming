@@ -1,0 +1,87 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+99
+'SOFTCOMPARE AGE V 1.0
+Maker: Juan Jose Torres Mojica
+This software compare birth of two person '
+4
+1
+52
+'Type/Input the year of birth of the first person: '
+5
+1
+7
+v_year1
+7
+0
+1
+14
+v_year1 > 2021
+4
+1
+53
+'Type/Input the year of birth of the second person: '
+13
+4
+1
+65
+'ERR: The year typed is not valid, both should be less than 2021'
+13
+5
+1
+7
+v_year2
+7
+0
+1
+14
+v_year2 > 2021
+6
+2
+6
+v_age1
+14
+2021 - v_year1
+6
+v_age2
+14
+2021 - v_year2
+7
+0
+1
+15
+v_age1 = v_age2
+7
+0
+1
+15
+v_age1 < v_age2
+4
+1
+28
+'The youngest is ' , v_year2
+13
+4
+1
+29
+'The youngest is ' , v_year1 
+13
+13
+4
+1
+19
+'The both are same'
+13
+13
+4
+1
+65
+'ERR: The year typed is not valid, both should be less than 2021'
+13
+1
