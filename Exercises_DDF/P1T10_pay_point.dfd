@@ -1,0 +1,72 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+123
+'PAYSOFT V 1.0 - MAKER: Juan Jose Torres Mojica - DESCRIPTION: This software calculate the inovoice of supermakert paraiso'
+4
+1
+30
+'Type/Input the first product'
+5
+1
+2
+P1
+4
+1
+31
+'Type/Input the second product'
+5
+1
+2
+P2
+4
+1
+30
+'Type/Input the third product'
+5
+1
+2
+P3
+4
+1
+31
+'Type/Input the fourth product'
+5
+1
+2
+P4
+7
+0
+1
+40
+P1 <= 0 OR P2 <= 0 OR P3 <= 0 OR P4 <= 0
+6
+3
+6
+SUMPRO
+11
+P1+P2+P3+P4
+5
+IVA19
+11
+SUMPRO*0.19
+5
+TOTAL
+12
+SUMPRO+IVA19
+4
+1
+112
+'The gross value is : $' , SUMPRO , ' The tax IVA 19 percent is: $' , IVA19 , ' The total invoice is: $' , TOTAL
+13
+4
+1
+45
+'ERR: Some of the products are less tha zero'
+13
+1
