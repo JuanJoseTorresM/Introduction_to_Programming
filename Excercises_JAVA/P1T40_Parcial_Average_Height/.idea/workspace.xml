@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa337a44-06dd-492b-a41f-a590c6b64c80" name="Default Changelist" comment="" />
+    <list default="true" id="1e017d9c-80b8-4d2e-8a4f-a24d8f7040ef" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +10,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1prdKdu1J9spw1W842Q3xDTRWVt" />
+  <component name="ProjectId" id="1qISEqDswzy6Y8g6fxUiTCIpnOZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -74,7 +74,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="usta.fis.Main" />
-      <module name="P1T35_JAVA_INPUT_NUMBER" />
+      <module name="P1T40_Paecial_Average_Height" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -91,11 +91,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="aa337a44-06dd-492b-a41f-a590c6b64c80" name="Default Changelist" comment="" />
-      <created>1615945082226</created>
+      <changelist id="1e017d9c-80b8-4d2e-8a4f-a24d8f7040ef" name="Default Changelist" comment="" />
+      <created>1616765503893</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1615945082226</updated>
+      <updated>1616765503893</updated>
     </task>
     <servers />
   </component>
@@ -109,6 +109,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
